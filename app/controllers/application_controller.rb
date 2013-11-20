@@ -12,10 +12,13 @@ class ApplicationController < ActionController::Base
 
   # ==THIS IS NOT HELPFUL
   def helpful
-      ##
-      # 1 One
-      # 2 Two
-      # 3 Three
       p "not"
+  end
+
+  # * One
+  # * Two
+  # * Three
+  def here
+      p "there"
   end
 end
