@@ -1,0 +1,27 @@
+Wed, 20 Nov 2013 15:12:07 -0700
+./README.rdoc	Wed, 20 Nov 2013 14:18:32 -0700
+./README	Wed, 20 Nov 2013 14:10:01 -0700
+./app/controllers/application_controller.rb	Wed, 20 Nov 2013 15:12:05 -0700
+./app/helpers/application_helper.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./public/robots.txt	Wed, 20 Nov 2013 14:18:32 -0700
+./bin/bundle	Wed, 20 Nov 2013 14:18:32 -0700
+./bin/rake	Wed, 20 Nov 2013 14:18:32 -0700
+./bin/rails	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/mime_types.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/session_store.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/secret_token.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/wrap_parameters.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/inflections.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/filter_parameter_logging.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/initializers/backtrace_silencers.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/boot.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/environment.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/environments/production.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/environments/test.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/environments/development.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/routes.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./config/application.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./test/test_helper.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./Gemfile	Wed, 20 Nov 2013 15:00:36 -0700
+./db/seeds.rb	Wed, 20 Nov 2013 14:18:32 -0700
+./Rakefile	Wed, 20 Nov 2013 14:18:32 -0700
